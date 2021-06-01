@@ -1,0 +1,2 @@
+# EncryptingFiles1
+Using the 'cryptography' library in Python and with a Youtube video, I made this program that will use symmetric encryption to encrypt the files from the path you specify in the 'path_to_encrypt' /////// Usando la biblioteca 'cryptography' en Python y con un video de Youtube, hice este programa que usará cifrado simétrico para encriptar los archivos de la ruta que especifiques en el 'path_to_encrypt
